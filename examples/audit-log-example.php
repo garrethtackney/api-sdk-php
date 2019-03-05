@@ -12,10 +12,10 @@ error_reporting(E_ALL);
  */
 
 $longOpts = [
-    'project-id:',
-    'user-id:',
-    'secret-key:',
-    'account-uid:'
+    "userIdentifier": "mpixaxnoeixrlwqzutfhekgddjwism",
+"tokenSecret": "ufhj879fst07b8ru92n0qu2qtlUH[2aqdcls8inutbpuuscsgrtmc14",
+"accountID": "041db322",
+"projectUDID": "6d75d40c5"
 ];
 
 $options = getopt('', $longOpts);
